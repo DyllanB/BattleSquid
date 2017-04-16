@@ -1,0 +1,8 @@
+BattleSquid.MainActivity, BattleSquid;md5bfae68de0b4751e4d93a6f5263cc655e.MainActivity
+BattleSquid.MainActivity, BattleSquid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bfae68de0b4751e4d93a6f5263cc655e.MainActivity
+BattleSquid.MainActivity;md5bfae68de0b4751e4d93a6f5263cc655e.MainActivity
+battlesquid.MainActivity;md5bfae68de0b4751e4d93a6f5263cc655e.MainActivity
+BattleSquid.SquidButton, BattleSquid;md5bfae68de0b4751e4d93a6f5263cc655e.SquidButton
+BattleSquid.SquidButton, BattleSquid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5bfae68de0b4751e4d93a6f5263cc655e.SquidButton
+BattleSquid.SquidButton;md5bfae68de0b4751e4d93a6f5263cc655e.SquidButton
+battlesquid.SquidButton;md5bfae68de0b4751e4d93a6f5263cc655e.SquidButton

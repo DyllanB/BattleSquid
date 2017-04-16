@@ -1,0 +1,158 @@
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\bin\Debug\BattleSquid.dll
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\bin\Debug\BattleSquid.pdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\bin\Debug\BattleSquid.BattleSquid.apk
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\bin\Debug\BattleSquid.BattleSquid-Signed.apk
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\BattleSquid.csprojResolveAssemblyReference.cache
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\BattleSquid.dll
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\BattleSquid.pdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\android\bin\BattleSquid.BattleSquid.apk
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\res\layout\main.xml
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\res\values\strings.xml
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\res\drawable\icon.png
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\R.cs.flag
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\uploadflags.txt
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\bin\Debug\BattleSquid.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\bin\Debug\Java.Interop.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\bin\Debug\Microsoft.CSharp.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\bin\Debug\Mono.Android.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\bin\Debug\Mono.CSharp.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\bin\Debug\mscorlib.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\bin\Debug\System.Core.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\bin\Debug\System.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\bin\Debug\System.Net.Http.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\bin\Debug\System.Runtime.Serialization.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\bin\Debug\System.Xml.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\bin\Debug\System.Xml.Linq.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\android\assets\BattleSquid.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\android\assets\Java.Interop.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\android\assets\Mono.Android.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\android\assets\mscorlib.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\android\assets\System.Core.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\android\assets\System.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\android\assets\System.Xml.dll.mdb
+c:\users\dylls\documents\visual studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\res\raw\sploosh.wav
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\res\raw\kerboom.wav
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\res\raw\killyay.wav
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\res\raw\loseyell.wav
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\res\drawable\squid-icon.png
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\res\drawable\bomb.png
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\res\drawable\bomb_gray.png
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\res\raw\hoorayyay.wav
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\res\drawable\squid_boom.png
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\res\drawable\x.png
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\res\drawable\hit.png
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid\BattleSquid\obj\Debug\BattleSquid.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\bin\Debug\BattleSquid.dll
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\bin\Debug\BattleSquid.pdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\bin\Debug\BattleSquid.BattleSquid.apk
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\bin\Debug\BattleSquid.BattleSquid-Signed.apk
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\BattleSquid.dll
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\BattleSquid.pdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\android\bin\BattleSquid.BattleSquid.apk
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\res\layout\main.xml
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\res\values\strings.xml
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\res\drawable\icon.png
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\res\raw\sploosh.wav
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\res\raw\kerboom.wav
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\res\raw\killyay.wav
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\res\raw\loseyell.wav
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\res\drawable\bomb.png
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\res\drawable\bomb_gray.png
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\res\raw\hoorayyay.wav
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\res\drawable\squid_boom.png
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\res\drawable\x.png
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\res\drawable\hit.png
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\R.cs.flag
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\uploadflags.txt
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\res\drawable\squid_icon.png
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\bin\Debug\BattleSquid.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\bin\Debug\mscorlib.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\bin\Debug\System.Core.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\bin\Debug\System.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\bin\Debug\System.Xml.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\android\assets\BattleSquid.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\dylls\Documents\Visual Studio 2015\Projects\BattleSquid - Copy\BattleSquid\obj\Debug\BattleSquid.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\bin\Debug\BattleSquid.dll
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\bin\Debug\BattleSquid.pdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\bin\Debug\BattleSquid.BattleSquid.apk
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\bin\Debug\BattleSquid.BattleSquid-Signed.apk
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\BattleSquid.csprojResolveAssemblyReference.cache
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\BattleSquid.dll
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\BattleSquid.pdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\android\bin\BattleSquid.BattleSquid.apk
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\res\layout\main.xml
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\res\values\strings.xml
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\res\raw\sploosh.wav
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\res\raw\kerboom.wav
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\res\raw\killyay.wav
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\res\raw\loseyell.wav
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\res\raw\hoorayyay.wav
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\res\drawable\bomb.png
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\res\drawable\bomb_gray.png
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\res\drawable\hit.png
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\res\drawable\squid_boom.png
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\res\drawable\squid_icon.png
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\res\drawable\x.png
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\R.cs.flag
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\uploadflags.txt
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\bin\Debug\BattleSquid.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\bin\Debug\Java.Interop.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\bin\Debug\Microsoft.CSharp.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\bin\Debug\Mono.Android.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\bin\Debug\Mono.CSharp.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\bin\Debug\mscorlib.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\bin\Debug\System.Core.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\bin\Debug\System.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\bin\Debug\System.Net.Http.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\bin\Debug\System.Xml.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\bin\Debug\System.Xml.Linq.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\android\assets\BattleSquid.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\android\assets\System.Core.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\android\assets\System.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\obj\Debug\BattleSquid.dll.mdb
+D:\AndroidApp\PRG655\BattleSquid\BattleSquid\bin\Debug\BattleSquid.dll.mdb
